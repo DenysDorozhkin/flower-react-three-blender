@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/flower/static/css/main.e27c94f9.css",
-    "main.js": "/flower/static/js/main.2eade0fc.js",
-    "static/js/787.c1112931.chunk.js": "/flower/static/js/787.c1112931.chunk.js",
-    "index.html": "/flower/index.html",
-    "main.e27c94f9.css.map": "/flower/static/css/main.e27c94f9.css.map",
-    "main.2eade0fc.js.map": "/flower/static/js/main.2eade0fc.js.map",
-    "787.c1112931.chunk.js.map": "/flower/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/flower-react-three-blender/static/css/main.e27c94f9.css",
+    "main.js": "/flower-react-three-blender/static/js/main.fb2d3a26.js",
+    "static/js/787.c1112931.chunk.js": "/flower-react-three-blender/static/js/787.c1112931.chunk.js",
+    "index.html": "/flower-react-three-blender/index.html",
+    "main.e27c94f9.css.map": "/flower-react-three-blender/static/css/main.e27c94f9.css.map",
+    "main.fb2d3a26.js.map": "/flower-react-three-blender/static/js/main.fb2d3a26.js.map",
+    "787.c1112931.chunk.js.map": "/flower-react-three-blender/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e27c94f9.css",
-    "static/js/main.2eade0fc.js"
+    "static/js/main.fb2d3a26.js"
   ]
 }
